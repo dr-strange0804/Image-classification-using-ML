@@ -10,7 +10,7 @@ Matplotlib (for plotting results)
 NumPy (for numerical operations)
 Pandas (for data manipulation)
 # Hardware Requirements
-CPU: A multi-core processor (4+ cores) is recommended.
+CPU: A multi-core processor (4+ cores) is recommended.\n
 GPU: For faster training, a GPU (with CUDA support) is preferred.
 RAM: At least 8 GB of RAM is recommended.
 # Software Requirements
